@@ -28,3 +28,11 @@ PHILOSOPHY
 
 I attempted to combine dynamic profiling and static analysis to provide unqiue ideas of any Python scripts. This program design was inspired by modern IDE AI profilers.
 
+-------------------------------------------------------------
+
+STRUCTURE
+
+trixProfiler
+--- profiler.py
+--- report.py
+
