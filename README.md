@@ -33,6 +33,10 @@ I attempted to combine dynamic profiling and static analysis to provide unqiue i
 STRUCTURE
 
 trixProfiler
---- profiler.py
---- report.py
+- profiler.py
+- report.py
+- rules.py
+- demo.py
+- app.py
+- data.csv
 
